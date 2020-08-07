@@ -30,6 +30,8 @@ The idea of this project is to create a simple, user friendly tool to compare ta
 ## <div align="center">Wire-Frames</div>
 [(back to top)](#table-of-contents)
 
+## THESE ARE INITIAL DRAFTS
+
 The Home Page would be screen with links to the different features of the site, as well as a few coverflow tools allowing the user to select their options.
 
 ![Home Page](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/Home%20page.PNG)
@@ -73,7 +75,8 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 ## <div align="center">Database Diagram</div>
 [(back to top)](#table-of-contents)
 
-Initial database diagram
+
+## Initial database diagram
 
 ![Database Diagram](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/Database%20Diagram.PNG)
 
@@ -81,7 +84,8 @@ Initial database diagram
 ## <div align="center">Entity Relationship Diagram</div>
 [(back to top)](#table-of-contents)
 
-Initiial Draft of the entity relationship diagram.
+
+## Initial Draft of the entity relationship diagram.
 
 ![ERD](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/ERD%20snip.PNG)
 
