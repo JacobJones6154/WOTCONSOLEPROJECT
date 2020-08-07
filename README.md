@@ -13,6 +13,7 @@ Final project for MSSA SD8. World of tanks statistics tool.
 2) [Concept](#concept)
 3) [Wire-Frames (DRAFT)](#wire-frames)
 4) [Database Diagram](#database-diagram)
+4) [Entity Relationship Diagram (ERD)](#entity-relationship-diagram)
 
 
 
@@ -70,5 +71,9 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 
 
 ## <div align="center">Database Diagram</div>
+[(back to top)](#table-of-contents)
+
+
+## <div align="center">Entity Relationship Diagram</div>
 [(back to top)](#table-of-contents)
 
