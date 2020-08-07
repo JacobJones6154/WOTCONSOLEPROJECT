@@ -76,7 +76,7 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 [(back to top)](#table-of-contents)
 
 
-## Initial database diagram
+## Initial database diagram draft
 
 ![Database Diagram](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/Database%20Diagram.PNG)
 
