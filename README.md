@@ -1,10 +1,14 @@
 # WOTCONSOLEPROJECT
+
+
 Final project for MSSA SD8. World of tanks statistics tool.
 
 
+![World Of Tanks](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/26-264596_transparent-world-of-tanks-logo-png-png-download.png)
 
 
-#### <div align="center">World OF Tanks </div>
+
+#### <div align="center">World of Tanks </div>
 
 
 ## <div align="center">Table of Contents</div>
