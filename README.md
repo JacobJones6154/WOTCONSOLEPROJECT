@@ -73,7 +73,15 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 ## <div align="center">Database Diagram</div>
 [(back to top)](#table-of-contents)
 
+Initial database diagram
+
+![Database Diagram](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/Database%20Diagram.PNG)
+
 
 ## <div align="center">Entity Relationship Diagram</div>
 [(back to top)](#table-of-contents)
+
+Initiial Draft of the entity relationship diagram.
+
+![ERD](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/ERD%20snip.PNG)
 
