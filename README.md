@@ -80,7 +80,7 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 [(back to top)](#table-of-contents)
 
 
-## Initial database diagram draft
+**Initial database diagram draft**
 
 ![Database Diagram](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/Database%20Diagram.PNG)
 
@@ -89,7 +89,7 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 [(back to top)](#table-of-contents)
 
 
-## Initial Draft of the entity relationship diagram.
+**Initial Draft of the entity relationship diagram.**
 
 ![ERD](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/ERD%20snip.PNG)
 
