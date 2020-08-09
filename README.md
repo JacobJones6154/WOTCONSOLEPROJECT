@@ -34,7 +34,7 @@ The idea of this project is to create a simple, user friendly tool to compare ta
 ## <div align="center">Wire-Frames</div>
 [(back to top)](#table-of-contents)
 
-## THESE ARE INITIAL DRAFTS
+**THESE ARE INITIAL DRAFTS**
 
 The Home Page would be screen with links to the different features of the site, as well as a few coverflow tools allowing the user to select their options.
 
