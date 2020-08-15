@@ -17,7 +17,10 @@ Final project for MSSA SD8. World of tanks statistics tool.
 2) [Concept](#concept)
 3) [Wire-Frames (DRAFT)](#wire-frames)
 4) [Database Diagram](#database-diagram)
-4) [Entity Relationship Diagram (ERD)](#entity-relationship-diagram)
+5) [Entity Relationship Diagram (ERD)](#entity-relationship-diagram)
+6) [User Stories](#user-stories)
+7) [Use Cases](#use-cases)
+8) [Use Case Diagram](#use-case-diagram)
 
 
 
@@ -92,4 +95,28 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 **Initial Draft of the entity relationship diagram.**
 
 ![ERD](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Wire%20frame%20diagram/ERD%20snip.PNG)
+
+## <div align="center">User Stories</div>
+[(back to top)](#table-of-contents)
+
+
+**1.** As an anonymous user I want to see available tanks, so that I can see the tank attributes.
+
+**2.** As an anonymous user (role) I need to select two tanks, so that I can compare tank attributes.
+
+
+## <div align="center">Use Cases</div>
+[(back to top)](#table-of-contents)
+
+**1.** Given the user is on the home page, when the user selects the countries tab, they are directed to the Countries page.
+
+**2.** Given the user is on the Countries tab, when the user selects on a certain tank in a given class, they are directed to that page. 
+
+**3.** Given that the user has selected a single tank, when they select the tank, they can see the tank attributes.
+
+**4.** Given that the user has selected multiple tanks, when they choose to battle, they can see the tank attributes of the different tanks. 
+
+
+## <div align="center">Use Case Diagram</div>
+[(back to top)](#table-of-contents)
 
