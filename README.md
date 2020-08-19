@@ -22,6 +22,8 @@ Final project for MSSA SD8. World of tanks statistics tool.
 7) [Use Cases](#use-cases)
 8) [Use Case Diagram](#use-case-diagram)
 7) [Requirements](#requirements)
+7) [Requirements Table](#requirements-table)
+7) [Test Case Table](#test-case-table)
 
 
 
@@ -160,3 +162,46 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 * 11.0\. User shall be able to see the tank name and its corresponding values after choosing to compare multiple tanks. 
 
 * 12.0\. User shall clear any current selections and return to the home page when they click on the Home Page button at the top. 
+
+
+## <div align="center">Requirements Table</div>
+[(back to top)](#table-of-contents)
+
+| Requirement ID | Requirement Description                                                                                                                                 | Test Method   | Test ID |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------|
+| 1.0            | User shall have Countries, Tank Classes, and a compare feature on the home page.                                                                        | Inspection    | TC001   |
+| 2.0            | User shall be able to swipe through the available countries on the home page.                                                                           | Demonstration | TC002   |
+| 3.0            | User shall be able to Swipe through available tank classes on the home page.                                                                            | Demonstration | TC002   |
+| 4.0            | User shall be able to choose the countries tab and see the available countries                                                                          | Demonstration | TC002   |
+| 5.0            | User shall be able to choose the tank classes tab and see the available classes.                                                                        | Demonstration | TC002   |
+| 6.0            | User shall be directed to the compare page when the compare tab is clicked.                                                                             | Demonstration | TC002   |
+| 7.0            | User shall be able to see available tiers and tanks when they select a certain tank class.                                                              | Inspection    | TC003   |
+| 7.1.0          | User shall be able to change tiers to filter available tanks and narrow down selection while on the chosen tank class page.                             | Demonstration | TC004   |
+| 8.0            | User shall be able to see available classes given a certain country is selected.                                                                        | Inspection    | TC005   |
+| 8.1.0          | User shall be able to swipe through the choices of each available class while on the given country page.                                                | Demonstration | TC006   |
+| 9.0            | User shall be able to choose the specific tank they want and be directed to the tank description page.                                                  | Demonstration | TC007   |
+| 10.0           | User shall be able to select up to three tanks while on the Compare page.                                                                               | Demonstration | TC008   |
+| 10.1.0         | User shall be directed to Country, then tank class, then tank selection after clicking on the add button while on the Compare Page.                     | Test          | TC009   |
+| 10.2.0         | User shall be directed back to the Compare Page after making their first selection in order to make a second selection.                                 | Test          | TC009   |
+| 10.3.0         | User shall be directed back to the Compare Page after making a second selection in order to make a third selection or Compare the first two selections. | Test          | TC009   |
+| 11.0           | User shall be able to see the tank name and its corresponding values after choosing to compare multiple tanks.                                          | Inspection    | TC010   |
+| 12.0           | User shall clear any current selections and return to the home page when they click on the Home Page button at the top.                                 | Test          | TC011   |
+
+
+## <div align="center">Test Case Table</div>
+[(back to top)](#table-of-contents)
+
+
+| Test ID | Req ID                   | Test Procedure                                                                                                         | Current Status | Time Stamp |
+|---------|--------------------------|------------------------------------------------------------------------------------------------------------------------|----------------|------------|
+| TC001   | 1.0                      | Check if home page displays Countries, Tank Classes, and Compare features.                                             | In Development |            |
+| TC002   | 2.0, 3.0,  4.0, 5.0, 6.0 | User will be able to swipe through given selection on  the home page.                                                  | In Development |            |
+| TC003   | 7.0                      | While on the tank class page, tier selection and tank selection should be displayed.                                   | In Development |            |
+| TC004   | 7.1                      | Choose a certain tier and only tanks of that tier will  be displayed.                                                  | In Development |            |
+| TC005   | 8.0                      | On the Countries page, selection of available countries  should display.                                               | In Development |            |
+| TC006   | 8.1                      | User should be able to swipe through and select a certain  country on the Countries Page.                              | In Development |            |
+| TC007   | 9.0                      | After tank selection, the tank description page should  display the information for that tank.                         | In Development |            |
+| TC008   | 10.0                     | On the Compare page, User should be able to select a  minimum of two tanks to compare.                                 | In Development |            |
+| TC009   | 10.1.0, 10.2.0, 10.3.0   | Directed through tank selection process and redirected  to the Compare page.                                           | In Development |            |
+| TC010   | 11.0                     | All of the chosen tanks statistics should be displayed  in order to effectively compare the values against each other. | In Development |            |
+| TC011   | 12.0                     | Tank selection(s) should clear when the home page is clicked.                                                          | In Development |            |
