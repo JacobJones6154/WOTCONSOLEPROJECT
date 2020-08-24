@@ -8,7 +8,7 @@ Final project for MSSA SD8. World of tanks statistics tool.
 
 
 
-#### <div align="center">World of Tanks </div>
+
 
 
 ## <div align="center">Table of Contents</div>
