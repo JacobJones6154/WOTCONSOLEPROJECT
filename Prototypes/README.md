@@ -1,6 +1,8 @@
 # Initial Prototype Designs.
 
-[Back to Project ReadMe File](https://github.com/JacobJones6154/WOTCONSOLEPROJECT)
+### These files are 'Ready For Review'
+
+[Back to Project File](https://github.com/JacobJones6154/WOTCONSOLEPROJECT)
 
 ![Home Page](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Prototypes/home%20page.PNG)
 
@@ -18,4 +20,4 @@
 
 ![Compare Page](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Prototypes/Compare.PNG)
 
-[Back to Project ReadMe File](https://github.com/JacobJones6154/WOTCONSOLEPROJECT)
+[Back to Project File](https://github.com/JacobJones6154/WOTCONSOLEPROJECT)
