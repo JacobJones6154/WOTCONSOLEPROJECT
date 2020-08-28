@@ -21,9 +21,9 @@ Final project for MSSA SD8. World of tanks statistics tool.
 6) [User Stories](#user-stories)
 7) [Use Cases](#use-cases)
 8) [Use Case Diagram](#use-case-diagram)
-7) [Requirements](#requirements)
-7) [Requirements Table](#requirements-table)
-7) [Test Case Table](#test-case-table)
+9) [Requirements](#requirements)
+10) [Requirements Table](#requirements-table)
+11) [Test Case Table](#test-case-table)
 
 
 
