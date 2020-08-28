@@ -209,3 +209,5 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 
 ## <div align="center">Initial Prototype</div>
 [(back to top)](#table-of-contents)
+
+**THESE ARE INITIAL DRAFTS**
