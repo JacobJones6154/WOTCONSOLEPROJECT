@@ -24,6 +24,7 @@ Final project for MSSA SD8. World of tanks statistics tool.
 9) [Requirements](#requirements)
 10) [Requirements Table](#requirements-table)
 11) [Test Case Table](#test-case-table)
+12) [Intitial Prototype](#Initial-Prototype)
 
 
 
@@ -205,3 +206,6 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 | TC009   | 10.1.0, 10.2.0, 10.3.0   | Directed through tank selection process and redirected  to the Compare page.                                           | Not Tested |            |
 | TC010   | 11.0                     | All of the chosen tanks statistics should be displayed  in order to effectively compare the values against each other. | Not Tested |            |
 | TC011   | 12.0                     | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested |            |
+
+## <div align="center">Initial Prototype</div>
+[(back to top)](#table-of-contents)
