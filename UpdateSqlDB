@@ -1,4 +1,7 @@
-  ALTER TABLE Tanks
+--Update the Database with an image source
+ 
+ 
+ ALTER TABLE Tanks
   ADD ImageSource varchar(97)
   
   TRUNCATE TABLE Tanks
