@@ -1,3 +1,6 @@
+---Creating the Initial database for my final project. Tables include; Country, Tier, Tank Class, and Tanks. 
+
+
 drop table if exists countries
 create table countries(
 	CountryID int primary key,
