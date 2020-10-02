@@ -1,7 +1,6 @@
 
-
-
 Final project for MSSA SD8. World of tanks statistics tool.
+
 
 
 ![World Of Tanks](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Assets/26-264596_transparent-world-of-tanks-logo-png-png-download.png)
