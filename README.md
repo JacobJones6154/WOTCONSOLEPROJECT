@@ -185,19 +185,15 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 [(back to top)](#table-of-contents)
 
 
-| Test ID | Req ID                   | Test Procedure                                                                                                         | Current Status | Time Stamp |
-|---------|--------------------------|------------------------------------------------------------------------------------------------------------------------|----------------|------------|
-| TC001   | 1.0                      | Check if home page displays Countries, Tank Classes, and Compare features.                                             | Passed  |            |
-| TC002   | 2.0, 3.0,  4.0, 5.0, 6.0 | User will be able to swipe through given selection on  the home page.                                                  | Passed |            |
-| TC003   | 7.0                      | While on the tank class page, tier selection and tank selection should be displayed.                                   | Not Reqd |            |
-| TC004   | 7.1                      | Choose a certain tier and only tanks of that tier will  be displayed.                                                  | Not Reqd |            |
-| TC005   | 8.0                      | On the Countries page, selection of available countries  should display.                                               | Not Reqd |            |
-| TC006   | 8.1                      | User should be able to swipe through and select a certain  country on the Countries Page.                              | Not Reqd |            |
-| TC007   | 9.0                      | After tank selection, the tank description page should  display the information for that tank.                         | Passed |            |
-| TC008   | 10.0                     | On the Compare page, User should be able to select a  minimum of two tanks to compare.                                 | Not Tested |            |
-| TC009   | 10.1.0, 10.2.0, 10.3.0   | Directed through tank selection process and redirected  to the Compare page.                                           | Not Tested |            |
-| TC010   | 11.0                     | All of the chosen tanks statistics should be displayed  in order to effectively compare the values against each other. | Not Tested |            |
-| TC011   | 12.0                     | Tank selection(s) should clear when the home page is clicked.                                                          | Passed |            |
+| Test ID | Req ID                 | Test Procedure                                                                                                        | Current Status | Time Stamp |
+|---------|------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------|------------|
+| TC001   | 1.0                    | Check if home page displays Countries, Tank Classes, and Compare features.                                            | Passed         | 11/1/2020  |
+| TC002   | 2.0, 3.0 4.0, 5.0 6.0  | User will be able to swipe through given selection on the home page.                                                  | Passed         | 11/1/2020  |
+| TC007   | 9.0                    | After tank selection, the tank description page should display the information for that tank.                         | Passed         | 11/1/2020  |
+| TC008   | 10.0                   | On the Compare page, User should be able to select a minimum of two tanks to compare.                                 | Not Tested     | 11/1/2020  |
+| TC009   | 10.1.0, 10.2.0, 10.3.0 | Directed through tank selection process and redirected to the Compare page.                                           | Not Tested     | 11/1/2020  |
+| TC010   | 11.0                   | All of the chosen tanks statistics should be displayed in order to effectively compare the values against each other. | Not Tested     | 11/1/2020  |
+| TC011   | 12.0                   | Tank selection(s) should clear when the home page is clicked.                                                         | Passed         | 11/1/2020  |
 
 ## <div align="center">Initial Prototype</div>
 [(back to top)](#table-of-contents)
