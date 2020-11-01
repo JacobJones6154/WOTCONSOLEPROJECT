@@ -24,6 +24,7 @@ Final project for MSSA SD8. World of tanks statistics tool.
 10) [Requirements Table](#requirements-table)
 11) [Test Case Table](#test-case-table)
 12) [Intitial Prototype](#Initial-Prototype)
+13) [Test Readiness Review](#Test-Readiness-Review)
 
 
 
@@ -216,3 +217,5 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 ***
 ***
 
+## <div align="center">Test Readiness Review</div>
+[(back to top)](#table-of-contents)
