@@ -195,17 +195,17 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 
 | Test ID | Req ID                   | Test Procedure                                                                                                         | Current Status | Time Stamp |
 |---------|--------------------------|------------------------------------------------------------------------------------------------------------------------|----------------|------------|
-| TC001   | 1.0                      | Check if home page displays Countries, Tank Classes, and Compare features.                                             | Not Tested |            |
-| TC002   | 2.0, 3.0,  4.0, 5.0, 6.0 | User will be able to swipe through given selection on  the home page.                                                  | Not Tested |            |
-| TC003   | 7.0                      | While on the tank class page, tier selection and tank selection should be displayed.                                   | Not Tested |            |
-| TC004   | 7.1                      | Choose a certain tier and only tanks of that tier will  be displayed.                                                  | Not Tested |            |
-| TC005   | 8.0                      | On the Countries page, selection of available countries  should display.                                               | Not Tested |            |
-| TC006   | 8.1                      | User should be able to swipe through and select a certain  country on the Countries Page.                              | Not Tested |            |
-| TC007   | 9.0                      | After tank selection, the tank description page should  display the information for that tank.                         | Not Tested |            |
+| TC001   | 1.0                      | Check if home page displays Countries, Tank Classes, and Compare features.                                             | Passed  |            |
+| TC002   | 2.0, 3.0,  4.0, 5.0, 6.0 | User will be able to swipe through given selection on  the home page.                                                  | Passed |            |
+| TC003   | 7.0                      | While on the tank class page, tier selection and tank selection should be displayed.                                   | Not Reqd |            |
+| TC004   | 7.1                      | Choose a certain tier and only tanks of that tier will  be displayed.                                                  | Not Reqd |            |
+| TC005   | 8.0                      | On the Countries page, selection of available countries  should display.                                               | Not Reqd |            |
+| TC006   | 8.1                      | User should be able to swipe through and select a certain  country on the Countries Page.                              | Not Reqd |            |
+| TC007   | 9.0                      | After tank selection, the tank description page should  display the information for that tank.                         | Passed |            |
 | TC008   | 10.0                     | On the Compare page, User should be able to select a  minimum of two tanks to compare.                                 | Not Tested |            |
 | TC009   | 10.1.0, 10.2.0, 10.3.0   | Directed through tank selection process and redirected  to the Compare page.                                           | Not Tested |            |
 | TC010   | 11.0                     | All of the chosen tanks statistics should be displayed  in order to effectively compare the values against each other. | Not Tested |            |
-| TC011   | 12.0                     | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested |            |
+| TC011   | 12.0                     | Tank selection(s) should clear when the home page is clicked.                                                          | Passed |            |
 
 ## <div align="center">Initial Prototype</div>
 [(back to top)](#table-of-contents)
@@ -219,3 +219,13 @@ The Tank Comparison Page will display a table with attributes and values. Each v
 
 ## <div align="center">Test Readiness Review</div>
 [(back to top)](#table-of-contents)
+
+* What percent of requirements are (currently) covered by test cases?\.
+    * After moving forward with the development of the app, the requirements changed significantly. This means that during the design of the application only about 24 percent of the original requirements were still valid and/or useful. I changed it mainly in part due to wanting a more user friendly experience. \.
+    
+    
+* What percent of test cases are currently passing?\.
+    * After the massive reduction in requirements only 64 percent of the original test cases were still valid and/or useful. Of these test cases that are left, 57 percent are passing. The other test cases that are left have yet to be tested because the final feature of the page is not fully complete leaving me unable to accurately test them. Development continues. \.
+    
+* What level of Validation could be expected after Verification? (Acceptance Tests?) \.
+    * The level of validation that could be expected after verification would be the individual can visit the site and see the details of their favorite tank. A final validation would be the user being able to compare multiple tanks head to head. The site currently functions with the exception of the head to head comparison. \.
