@@ -50,13 +50,13 @@ For my Tanks page, I created a single card template to display the image and a f
 [(back to top)](#table-of-contents)
 
 * What did you do right\?
-  * placeholder\.
+  * I think the biggest thing that i did right was what i chose for my project. I think that it was much more in tune to what my skill level would be rather than my other two initial project ideas.  \.
 * What did you do wrong\?
-  * placeholder\.
+  * I initially wanted to do way more than my skill level, so i had to scale back to my skill level.  \.
 * Where were you lucky\?
-  * placeholder\.
+  * I got lucky and was able to find some MS documentation that created an app that was extremely useful when I came to a roadblock. I was also lucky to have the help that some offered in this course, it was super helpful in all aspects from design ideas to code development to maintenance of the application \.
 * what would you change / what do you know now that you wish you knew "then"\?
-  * placeholder\.
+  * I would have not created my database so early, as I had to recreate it several times as my application progressed before i actually needed it. I would also start out much simpler and implement new features as my skill level progresses\.
 
 
 
