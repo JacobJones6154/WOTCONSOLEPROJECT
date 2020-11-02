@@ -37,6 +37,13 @@
 ## <div align="center">Code Architecture</div>
 [(back to top)](#table-of-contents)
 
+This is going to be the main pages and what it took to display those pages.
+Here you cans see the code for the home landing page. I omitted the navbar. You can see I created a jumbotron to display some headers and a few buttons to help direct around the site. I changed the page background to a garage to complete the feel of a tank. Then i changed the opacity of the jumbotron background to be completely see through.  
+![Homecode](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Assets/homecode.PNG)
+
+
+For my Tanks page, I created a single card template to display the image and a few key details of the tank, as well as a button to get more details of the tank if the user wants. You will see that the card is completely wrapped in a foreach loop so that it will create a card for each item that the model creates from the database. So if I create a new tank another card will be created and it will alternatively remove cards as i remove tanks fromt the db. 
+![TanksCode](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Assets/tankscode.PNG)
 
 
 ## <div align="center">Lessons Learned</div>
