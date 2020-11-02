@@ -19,7 +19,9 @@
  * Implementation \.
     * Once I began to get down to the nitty gritty of the application, I realized designing a mobile first application wasnt in the best interest to the user to see my vision. Also, going through with my skill level, I changed the application significantly to match my talents as well as improve the userability of the site. I no longer had page after page to click through to get to a single tank but now I fell that it is a smoother process to the end goal. Some things are still being developed as of writing, namely the Compare page has yet to be fully created\. 
  * Testing \.
+    * There were no dedicated test cases built for the website. I would just develop a portion of the application and then run it through the paces to ensure that it was doing what I wanted it to do\.
  * Maintenance \.
+    * Since I have deployed my application on Azure, I have had several others check over the site and offer suggestions to improve the user experience and have tried to implement those suggestions \.
 
  
 
