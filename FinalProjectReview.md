@@ -20,5 +20,14 @@
 ## <div align="center">Lessons Learned</div>
 [(back to top)](#table-of-contents)
 
+* What did you do right?\.
+  * placeholder\.
+* What did you do wrong?\.
+  * placeholder\.
+* Where were you lucky?\.
+  * placeholder\.
+* what would you change / what do you know now that you wish you knew "then"?\.
+  * placeholder\.
+
 
 
