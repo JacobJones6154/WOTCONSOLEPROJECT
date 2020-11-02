@@ -12,6 +12,8 @@
 ## <div align="center">Product Demonstration</div>
 [(back to top)](#table-of-contents)
 
+# https://tankopedia.azurewebsites.net
+
 ## <div align="center">Code Architecture</div>
 [(back to top)](#table-of-contents)
 
