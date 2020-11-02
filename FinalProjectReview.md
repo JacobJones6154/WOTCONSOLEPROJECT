@@ -1,10 +1,39 @@
 ## <div align="center">Table of Contents</div>
 
-1) [Project Experience](#Project-Experience)
-2) [Product Demonstration](#Product-Demonstration)
-3) [Code-Architecture](#Code-Architecture)
-4) [Lessons Learned](#Lessons-Learned)
+1) [Requirements](#Requirements)
+2) [Test cases](#Test-Cases)
+3) [Project Experience](#Project-Experience)
+4) [Product Demonstration](#Product-Demonstration)
+5) [Code-Architecture](#Code-Architecture)
+6) [Lessons Learned](#Lessons-Learned)
 
+## <div align="center">Requirements</div>
+[(back to top)](#table-of-contents)
+
+| Requirement ID | Requirement Description                                                                                                                                 | Test Method   | Test ID |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------|
+| 1.0            | User shall have Countries, Tank Classes, and a compare feature on the home page.                                                                        | Inspection    | TC001   |
+| 6.0            | User shall be directed to the compare page when the compare tab is clicked.                                                                             | Demonstration | TC002   |
+| 9.0            | User shall be able to choose the specific tank they want and be directed to the tank description page.                                                  | Demonstration | TC007   |
+| 10.0           | User shall be able to select up to three tanks while on the Compare page.                                                                               | Demonstration | TC008   |
+| 10.1.0         | User shall be directed to Country, then tank class, then tank selection after clicking on the add button while on the Compare Page.                     | Test          | TC009   |
+| 10.2.0         | User shall be directed back to the Compare Page after making their first selection in order to make a second selection.                                 | Test          | TC009   |
+| 10.3.0         | User shall be directed back to the Compare Page after making a second selection in order to make a third selection or Compare the first two selections. | Test          | TC009   |
+| 11.0           | User shall be able to see the tank name and its corresponding values after choosing to compare multiple tanks.                                          | Inspection    | TC010   |
+| 12.0           | User shall clear any current selections and return to the home page when they click on the Home Page button at the top.                                 | Test          | TC011   |
+
+## <div align="center">Test Cases</div>
+[(back to top)](#table-of-contents)
+
+| Test ID | Req ID                 | Test Procedure                                                                                                        | Current Status | Time Stamp |
+|---------|------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------|------------|
+| TC001   | 1.0                    | Check if home page displays Countries, Tank Classes, and Compare features.                                            | Passed         | 11/1/2020  |
+| TC002   | 2.0, 3.0 4.0, 5.0 6.0  | User will be able to swipe through given selection on the home page.                                                  | Passed         | 11/1/2020  |
+| TC007   | 9.0                    | After tank selection, the tank description page should display the information for that tank.                         | Passed         | 11/1/2020  |
+| TC008   | 10.0                   | On the Compare page, User should be able to select a minimum of two tanks to compare.                                 | Not Tested     | 11/1/2020  |
+| TC009   | 10.1.0, 10.2.0, 10.3.0 | Directed through tank selection process and redirected to the Compare page.                                           | Not Tested     | 11/1/2020  |
+| TC010   | 11.0                   | All of the chosen tanks statistics should be displayed in order to effectively compare the values against each other. | Not Tested     | 11/1/2020  |
+| TC011   | 12.0                   | Tank selection(s) should clear when the home page is clicked.                                                         | Passed         | 11/1/2020  |
 
 ## <div align="center">Project Experience</div>
 [(back to top)](#table-of-contents)
