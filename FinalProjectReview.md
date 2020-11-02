@@ -10,6 +10,8 @@
 ## <div align="center">Requirements</div>
 [(back to top)](#table-of-contents)
 
+### Many of my original requirements and test cases were obsolete by the end of the build so they were removed for brevity.
+
 | Requirement ID | Requirement Description                                                                                                                                 | Test Method   | Test ID |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------|
 | 1.0            | User shall have Countries, Tank Classes, and a compare feature on the home page.                                                                        | Inspection    | TC001   |
