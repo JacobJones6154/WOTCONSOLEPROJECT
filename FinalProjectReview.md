@@ -44,7 +44,8 @@
    * Here is my initial wireframe design of the home landing page. I wanted several things on the home page. Since i had designed this so early on, I didnt know exactly what I would be able to do as a final output so it was wishful thinking. All of my initial designs was me just running through my head, what I thought would be best and most efficient at the time. 
    ![Home Page](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Assets/Home%20page.PNG) \.
  * Analysis \.
-   * For the analysis I tried to do some market research of current applications that do similar functions to what I wanted. I tried to take the pros from each that I liked and ditch what I didnt like \.
+   * For the analysis I tried to do some market research of current applications that do similar functions to what I wanted. I tried to take the pros from each that I liked and ditch what I didnt like
+   ![actualwot](https://github.com/JacobJones6154/WOTCONSOLEPROJECT/blob/master/Assets/wotactual.PNG)\.
  * Design \.
     * I used online tools to help design my wireframes and develop the flow I thought was useful, then I moved onto Prototypes with an online tool as well. This was all very useful in giving me ideas for how to layout my application\.
  * Implementation \.
